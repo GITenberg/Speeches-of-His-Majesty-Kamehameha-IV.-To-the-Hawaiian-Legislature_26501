@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32049
     wikipedia: http://en.wikipedia.org/wiki/Kamehameha_IV
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26501#Speeches-of-His-Majesty-Kamehameha-IV.-To-the-Hawaiian-Legislature
 gutenberg_issued: '2008-08-31'
 gutenberg_type: Text
 identifiers:
